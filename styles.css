@@ -91,6 +91,10 @@ body {
   grid-area: header;
 }
 
+.test {
+  text-align: center;
+}
+
 .container .aside {
   grid-area: aside;
 }
